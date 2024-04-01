@@ -34,6 +34,6 @@ Sum of Negative Numbers
 
 # Get the jar file!
 
-[Download from here](https://github.com/FahimFBA/Java-GUI-Projects/blob/main/MathApplication/Jar%20File/MathApplication.jar)
+[Download from here](https://github.com/Mustafakhn123/GUI-Calculator/blob/main/Calculator.jar)
 
 </div>
